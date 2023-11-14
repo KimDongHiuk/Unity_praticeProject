@@ -1,2 +1,2 @@
-# praticeProject
-공유 유니티 프로젝트
+# Unity_praticeProject
+유니티 학습 프로젝트
